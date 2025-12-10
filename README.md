@@ -1,5 +1,9 @@
 # Optimisez la gestion des données d’une boutique
 
+<p align="center">
+  <img src="P6_logo_Bottleneck.jpg" alt="Logo Bottleneck">
+</p>
+
 ## Contexte et objectifs
 
 ![Logo Bottleneck](P6_logo_Bottleneck.jpg) 
