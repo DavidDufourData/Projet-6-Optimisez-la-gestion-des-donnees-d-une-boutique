@@ -3,7 +3,6 @@
 ## Contexte et objectifs
 
                                                           ![Logo Bottleneck](P6_logo_Bottleneck.jpg) 
-
 Ce projet consiste à nettoyer, fusionner et organiser différents jeux de données afin de reconstituer des informations cohérentes sur les ventes d’une boutique.
 
 ## Soft Skills
