@@ -6,6 +6,13 @@
 
 ## Contexte et objectifs
 
+Bottleneck est un marchand de vin prestigieux opérant en France.  
+
+Nicolas, le Responsable vente chez Bottleneck, a du mal à analyser les données et nous remonte que la gestion des stocks est complexe.
+Récemment embauchée chez BottleNeck en tant qu’analyste, la mission consiste à :  
+- Agréger les différents fichiers afin de pouvoir exploiter les données
+- Analyser les données pour le CODIR.
+
 Ce projet consiste à nettoyer, fusionner et organiser différents jeux de données afin de reconstituer des informations cohérentes sur les ventes d’une boutique.
 
 ## Soft Skills
