@@ -28,7 +28,7 @@ Ce projet consiste à nettoyer, fusionner et organiser différents jeux de donn�
 - Analyses univariées et multivariées  
 
 ## Outils utilisés
-- Python  
+- Notebook Jupyter  
 - Pandas, NumPy  
 - Matplotlib, Seaborn
 
